@@ -12,6 +12,13 @@ Python client for **[B2B Leads Finder: Emails & Contacts, Any Company, Live](htt
 pip install apify-client
 python3 b2b_leads_finder.py --token YOUR_APIFY_TOKEN --companies "stripe.com,notion.so"
 ```
+### Node.js
+
+```bash
+npm install apify-client
+node b2b_leads_finder.mjs --token YOUR_APIFY_TOKEN --token YOUR_APIFY_TOKEN --companies "stripe.com,notion.so"
+```
+
 
 Get a free API token: [console.apify.com/sign-up](https://console.apify.com/sign-up) — then find it under **Settings → API & Integrations**.
 
