@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Example Corp",
+    "domain": "example.com",
+    "name": "Jordan Sample",
+    "job_title": "Head of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/example-profile",
+    "email": "jordan.sample@example.com",
+    "email_confidence": "guessed",
+    "email_pattern": "first.last",
+    "phone": "+1-555-0100",
+    "phone_source": "company-website",
+    "source": "linkedin-serp",
+    "retrieved_live": true,
+    "scraped_at": "2026-07-27T16:37:44.000Z"
+  },
+  {
+    "company": "Example Corp",
+    "domain": "example.com",
+    "name": "Alex Placeholder",
+    "job_title": "VP of Sales",
+    "linkedin_url": "https://www.linkedin.com/in/example-profile-2",
+    "email": "alex.placeholder@example.com",
+    "email_confidence": "guessed",
+    "email_pattern": "first.last",
+    "phone": "+1-555-0101",
+    "phone_source": "company-website",
+    "source": "linkedin-serp",
+    "retrieved_live": true,
+    "scraped_at": "2026-07-27T16:37:44.000Z"
+  }
+]

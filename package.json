@@ -1,0 +1,14 @@
+{
+  "name": "b2b-leads-finder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js client for the themineworks/b2b-leads-finder Apify actor",
+  "main": "b2b_leads_finder.mjs",
+  "scripts": {
+    "start": "node b2b_leads_finder.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^1.9.2"
+  },
+  "license": "MIT"
+}
